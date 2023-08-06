@@ -1,6 +1,6 @@
 # Pac-Man
 
-<img width="1100" alt="game_playing" src="https://github.com/python-programmer1512/Pac-Man/assets/68761453/58886a1e-2b61-4693-8d0d-8ed96ecfa2eb">
+<img width="1000" alt="game_playing" src="https://github.com/python-programmer1512/Pac-Man/assets/68761453/58886a1e-2b61-4693-8d0d-8ed96ecfa2eb">
 
 pygame 으로 제작한 Pac-Man 게임 입니다.
 
