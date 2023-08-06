@@ -43,6 +43,6 @@
 
 ## 🎮 이미 만들어진 파일
 #### 만약 화면이 전부다 보이지 않을 경우 화면 배율을 조정하면 볼 수 있음
-* [pac_man.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/pac_man.zip)
-* [pac_man_lite.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/pac_man_lite.zip)
+* [pac_man.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/game_file/pac_man.zip)
+* [pac_man_lite.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/game_file/pac_man_lite.zip)
 
