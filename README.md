@@ -6,7 +6,11 @@
 <div align="center">
 
   ### Made by Pygame 🐍🎮
-
+  
+</div>  
+  
+<div align="center">
+  
   ## ▶️ 실행 방법
 
   ### <div align="center"> 1. pac_man.py 를 직접 실행 </div>
