@@ -6,11 +6,11 @@
   Made by Pygame 🐍🎮
 </div>
 <div align="center">
-  실행 코드 : pac_man.py
-  
-  맵 변경 : large_dataset 에서 맵 변경
-  
-  ghost 의 최단경로 알고리즘 데이터 : large_dataset 에 플로이드 와샬에 필요한 2차원 배열 저장
+
+  ## ▶️ 실행 방법
+
+  1. pac_man.py 를 직접 실행
+  2. pac_man.exe 또는 pac_man_lite.exe 파일을 실행
   
   ## 🛠 커스텀 맵 제작
   
