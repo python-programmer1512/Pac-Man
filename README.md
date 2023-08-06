@@ -13,7 +13,7 @@
   ghost 의 최단경로 알고리즘 데이터 : large_dataset 에 플로이드 와샬에 필요한 2차원 배열 저장
   
   ## 🛠 커스텀 맵 제작
-  pac_man.py 에서 developer 변수를 1로 설정
+  * pac_man.py 에서 developer 변수를 1로 설정
   실행 후 마우스로 맵 변경 가능(실행 시 ghost 가 플레이어를 잡지 못함)
   
 
