@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  ### Made by Pygame 🐍🎮 </div>
+  ### Made by Pygame 🐍🎮
 
   ## ▶️ 실행 방법
 
