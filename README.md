@@ -2,7 +2,7 @@
 <div align="center">
   <img width="700" alt="game_playing" src="https://github.com/python-programmer1512/Pac-Man/assets/68761453/58886a1e-2b61-4693-8d0d-8ed96ecfa2eb">
 </div>  
-<div align="center"; style="font-size:200%">
+<div align="center">
     Made by Pygame 🐍🎮 
 </div>
 
