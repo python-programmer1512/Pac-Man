@@ -1,5 +1,7 @@
 # Pac-Man
 
+<img width="1123" alt="game_playing" src="https://github.com/python-programmer1512/Pac-Man/assets/68761453/58886a1e-2b61-4693-8d0d-8ed96ecfa2eb">
+
 pygame 으로 제작한 Pac-Man 게임 입니다.
 
 실행 코드 : pac_man.py
@@ -9,6 +11,8 @@ pygame 으로 제작한 Pac-Man 게임 입니다.
 ghost 의 최단경로 알고리즘 데이터 : large_dataset 에 플로이드 와샬에 필요한 2차원 배열 저장
 
 ## 🛠 커스텀 맵 제작
+1. pac_man.py 에서 developer 변수를 1로 설정
+2. 
 
 
 이미 만들어진 파일
