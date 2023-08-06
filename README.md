@@ -30,11 +30,11 @@
     
   #### <div align="center"> 2. 실행 후 마우스로 맵 변경 가능(실행 시 ghost 가 플레이어를 잡지 못함) </div>
 
-  <div align="center"> 왼쪽 클릭 : 벽 생성 </div>
+  #### <div align="center"> 왼쪽 클릭 : 벽 생성 </div>
   
-  <div align="center"> 오른쪽 클릭 : 벽 파괴 </div>
+  #### <div align="center"> 오른쪽 클릭 : 벽 파괴 </div>
 
-  ### 맵 세팅 후 0 버튼(키보드)를 누르면 지금까지 만든 MAP 데이터와 해당 MAP 에 대한 플로이드 와샬 데이터가 출력됨
+  ### <div align="center"> 3. 맵 세팅 후 0 버튼(키보드)를 누르면 지금까지 만든 MAP 데이터와 해당 MAP 에 대한 플로이드 와샬 데이터가 출력됨 </div?
 
   ### 출력된 값들을 large_dataset.py 파일에 들어가서 해당하는 위치에 복붙(출력을 보면 배열 출력 전, dp, map 이 출력됨)
 
