@@ -45,4 +45,4 @@
 * [pac_man.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/pac_man.zip)
 * [pac_man_lite.zip](https://github.com/python-programmer1512/Pac-Man/blob/main/pac_man_lite.zip)
 
-만약 화면이 전부다 보이지 않을 경우 화면 배율을 조정하면 볼 수 있습니다.
+* 만약 화면이 전부다 보이지 않을 경우 화면 배율을 조정하면 볼 수 있음
