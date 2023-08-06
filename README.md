@@ -3,7 +3,7 @@
   <img width="700" alt="game_playing" src="https://github.com/python-programmer1512/Pac-Man/assets/68761453/58886a1e-2b61-4693-8d0d-8ed96ecfa2eb">
 </div>  
 <div align="center">
-  <p> Made by Pygame 🐍🎮: 22px </p>
+  Made by Pygame 🐍🎮
 </div>
 
 실행 코드 : pac_man.py
