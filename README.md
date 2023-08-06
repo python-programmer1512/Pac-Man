@@ -14,9 +14,9 @@
 
 
 
-### <div align="center"> 1. pac_man.py 를 직접 실행 </div>
+### 1. pac_man.py 를 직접 실행 
 
-### <div align="center"> 2. pac_man.exe 또는 pac_man_lite.exe 파일을 실행 </div>
+### 2. pac_man.exe 또는 pac_man_lite.exe 파일을 실행 
 
 
 
