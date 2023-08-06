@@ -14,9 +14,9 @@
 
 
 
-### 1. pac_man.py 를 직접 실행 
+#### 1. pac_man.py 를 직접 실행 
 
-### 2. pac_man.exe 또는 pac_man_lite.exe 파일을 실행 
+#### 2. pac_man.exe 또는 pac_man_lite.exe 파일을 실행 
 
 
 
